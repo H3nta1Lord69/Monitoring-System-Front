@@ -43,6 +43,7 @@ testem.log
 
 # System Files
 db.config.js
+.env
 .DS_Store
 Thumbs.db
 *.log
